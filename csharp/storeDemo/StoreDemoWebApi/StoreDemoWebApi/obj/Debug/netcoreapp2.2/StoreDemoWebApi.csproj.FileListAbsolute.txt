@@ -1,0 +1,14 @@
+C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.csprojAssemblyReference.cache
+C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\bin\Debug\netcoreapp2.2\StoreDemoWebApi.deps.json
+C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\bin\Debug\netcoreapp2.2\StoreDemoWebApi.runtimeconfig.json
+C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\bin\Debug\netcoreapp2.2\StoreDemoWebApi.runtimeconfig.dev.json
+C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\bin\Debug\netcoreapp2.2\StoreDemoWebApi.dll
+C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\bin\Debug\netcoreapp2.2\StoreDemoWebApi.pdb
+C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.csproj.CoreCompileInputs.cache
+C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.RazorAssemblyInfo.cache
+C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.RazorAssemblyInfo.cs
+C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.AssemblyInfoInputs.cache
+C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.AssemblyInfo.cs
+C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.dll
+C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.pdb
