@@ -12,3 +12,17 @@ C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp
 C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.RazorTargetAssemblyInfo.cache
 C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.dll
 C:\Users\cybbe\source\repos\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.pdb
+C:\codedemos\githubshared\csharp\storeDemo\StoreDemoWebApi\StoreDemoWebApi\bin\Debug\netcoreapp2.2\StoreDemoWebApi.deps.json
+C:\codedemos\githubshared\csharp\storeDemo\StoreDemoWebApi\StoreDemoWebApi\bin\Debug\netcoreapp2.2\StoreDemoWebApi.runtimeconfig.json
+C:\codedemos\githubshared\csharp\storeDemo\StoreDemoWebApi\StoreDemoWebApi\bin\Debug\netcoreapp2.2\StoreDemoWebApi.runtimeconfig.dev.json
+C:\codedemos\githubshared\csharp\storeDemo\StoreDemoWebApi\StoreDemoWebApi\bin\Debug\netcoreapp2.2\StoreDemoWebApi.dll
+C:\codedemos\githubshared\csharp\storeDemo\StoreDemoWebApi\StoreDemoWebApi\bin\Debug\netcoreapp2.2\StoreDemoWebApi.pdb
+C:\codedemos\githubshared\csharp\storeDemo\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.csprojAssemblyReference.cache
+C:\codedemos\githubshared\csharp\storeDemo\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.csproj.CoreCompileInputs.cache
+C:\codedemos\githubshared\csharp\storeDemo\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.RazorAssemblyInfo.cache
+C:\codedemos\githubshared\csharp\storeDemo\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.RazorAssemblyInfo.cs
+C:\codedemos\githubshared\csharp\storeDemo\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.AssemblyInfoInputs.cache
+C:\codedemos\githubshared\csharp\storeDemo\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.AssemblyInfo.cs
+C:\codedemos\githubshared\csharp\storeDemo\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.RazorTargetAssemblyInfo.cache
+C:\codedemos\githubshared\csharp\storeDemo\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.dll
+C:\codedemos\githubshared\csharp\storeDemo\StoreDemoWebApi\StoreDemoWebApi\obj\Debug\netcoreapp2.2\StoreDemoWebApi.pdb
